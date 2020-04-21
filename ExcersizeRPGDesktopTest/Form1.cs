@@ -39,6 +39,7 @@ namespace ExcersizeRPGDesktopTest
             minutes = "00";
             seconds = "00";
             startPauseBtn.Enabled = false;
+            timer1.Interval = 1000;
 
             instructionsLbl.Text = "Please choose a class and then press start";
             timerLbl.Text = minutes + ":" + seconds;
