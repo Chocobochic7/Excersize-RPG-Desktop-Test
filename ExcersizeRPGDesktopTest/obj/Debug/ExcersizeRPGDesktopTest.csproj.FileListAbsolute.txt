@@ -18,3 +18,13 @@ D:\Programming\Excersize-RPG-Desktop-Test\ExcersizeRPGDesktopTest\obj\Debug\Exce
 D:\Programming\Excersize-RPG-Desktop-Test\ExcersizeRPGDesktopTest\obj\Debug\ExcersizeRPGDesktopTest.csproj.CoreCompileInputs.cache
 D:\Programming\Excersize-RPG-Desktop-Test\ExcersizeRPGDesktopTest\obj\Debug\ExcersizeRPGDesktopTest.exe
 D:\Programming\Excersize-RPG-Desktop-Test\ExcersizeRPGDesktopTest\obj\Debug\ExcersizeRPGDesktopTest.pdb
+D:\Code\Excersize-RPG-Desktop-Test\ExcersizeRPGDesktopTest\bin\Debug\ExcersizeRPGDesktopTest.exe.config
+D:\Code\Excersize-RPG-Desktop-Test\ExcersizeRPGDesktopTest\bin\Debug\ExcersizeRPGDesktopTest.exe
+D:\Code\Excersize-RPG-Desktop-Test\ExcersizeRPGDesktopTest\bin\Debug\ExcersizeRPGDesktopTest.pdb
+D:\Code\Excersize-RPG-Desktop-Test\ExcersizeRPGDesktopTest\obj\Debug\ExcersizeRPGDesktopTest.csprojAssemblyReference.cache
+D:\Code\Excersize-RPG-Desktop-Test\ExcersizeRPGDesktopTest\obj\Debug\ExcersizeRPGDesktopTest.Form1.resources
+D:\Code\Excersize-RPG-Desktop-Test\ExcersizeRPGDesktopTest\obj\Debug\ExcersizeRPGDesktopTest.Properties.Resources.resources
+D:\Code\Excersize-RPG-Desktop-Test\ExcersizeRPGDesktopTest\obj\Debug\ExcersizeRPGDesktopTest.csproj.GenerateResource.cache
+D:\Code\Excersize-RPG-Desktop-Test\ExcersizeRPGDesktopTest\obj\Debug\ExcersizeRPGDesktopTest.csproj.CoreCompileInputs.cache
+D:\Code\Excersize-RPG-Desktop-Test\ExcersizeRPGDesktopTest\obj\Debug\ExcersizeRPGDesktopTest.exe
+D:\Code\Excersize-RPG-Desktop-Test\ExcersizeRPGDesktopTest\obj\Debug\ExcersizeRPGDesktopTest.pdb

@@ -98,6 +98,7 @@ namespace ExcersizeRPGDesktopTest
                 { "1 + 4", "2 + 3", "1 + Side Stab", "1 + Top Stab" , "Top Stab + 4", "2 + Top Stab", "Side Stab + 2", "Side Stab + 4", "4 + 1", "3 + 2"};
             high = new object[5]
                 {"1 + Duck + Side Stab", "1 + duck + Top Stab", "Top Stab + Side Stab", "Top Stab + Duck + Top Stab", "1 + Top Stab + Duck + Side Stab" };
+            startPauseBtn.Enabled = true;
             brawlerBtn.Enabled = true;
             knightBtn.Enabled = true;
             thiefBtn.Enabled = false;
@@ -112,6 +113,7 @@ namespace ExcersizeRPGDesktopTest
                 {"Mountain Climbers", "Plank Jack", "Plank to Knee Tap", "Skaters", "Jumping Lunge", "Plank + Right Arm Up + Plank + Left Arm Up", "Football Shuffle", "Squat Jack", "Skip in Place" , "Medium10" };
             high = new object[5]
                 { "High", "High2", "High3", "High4", "High5" };
+            startPauseBtn.Enabled = true;
             brawlerBtn.Enabled = true;
             knightBtn.Enabled = true;
             thiefBtn.Enabled = true;
