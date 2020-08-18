@@ -197,7 +197,7 @@ namespace ExcersizeRPGDesktopTest
                 finalArr.Add(secondThird[x]);
 
             }
-            Console.WriteLine();
+            //Console.WriteLine();
             for (int x = 0; x < 10; x++)
             {
                 do
